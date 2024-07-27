@@ -25,7 +25,7 @@ Somos uma organização dedicada à inovação e ao desenvolvimento de tecnologi
 
 ### Decorado
 
-Trazer técnologia para o mercado imobiliário, fornecendo um software com foco em segurança perante outros profissionais, controle de clientes e imóveis, além de permitir networking seguro e direcionado.
+Trazer tecnologia para o mercado imobiliário, fornecendo um software com foco em segurança perante outros profissionais, controle de clientes e imóveis, além de permitir networking seguro e direcionado.
 
 ---
 
